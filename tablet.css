@@ -1,0 +1,49 @@
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .header {
+        height: 150px;
+    }
+
+    h5 {
+        font-size: 24px;
+    }
+
+    .links {
+        width: 90%;
+    }
+
+    .search input {
+        width: 70%;
+    }
+
+    .boxes {
+        height: auto;
+    }
+
+    .main1 {
+        flex-direction: column;
+        width: 90%
+    }
+
+    .box1 {
+        overflow-y: hidden;
+    }
+
+    .box1,
+    .sideboxes {
+        width: 100%;
+    }
+
+    .box2 {
+        margin-top: 40px;
+    }
+
+    .box3 {
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+
+    .box3 img {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+}
