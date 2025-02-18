@@ -45,8 +45,10 @@
 
     .text {
         font-size: 14px;
+        overflow-y: hidden;
     }
 
+ 
     .box2 h1 {
         font-size: 18px;
     }
@@ -65,7 +67,7 @@
         margin-top: 20px;
         margin-bottom: 20px;
     }
-
+   
     .box3 img {
         width: 24%;
         margin-bottom: 10px;
