@@ -37,7 +37,6 @@
     .box1,
     .sideboxes {
         width: 100%;
-        height: auto;
     }
 
     .img {
@@ -45,7 +44,6 @@
     }
 
     .text {
-        height: auto;
         font-size: 14px;
     }
 
