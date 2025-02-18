@@ -14,22 +14,14 @@
     .search input {
         width: 70%;
     }
-
-    .boxes {
-        height: auto;
+    .text{
+        overflow-y: hidden;
     }
-
     .main1 {
         flex-direction: column;
         width: 90%
     }
-
-    .box1 {
-        overflow-y: hidden;
-    }
-
-    .box1,
-    .sideboxes {
+    .box1,.sideboxes {
         width: 100%;
     }
 
